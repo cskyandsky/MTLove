@@ -13,12 +13,16 @@ In a world where conversations can easily turn into conflicts, we wanted to crea
 We developed **MTLove** using:
 - **React & Tailwind CSS** for a sleek, intuitive UI
 - **Node.js** for a responsive backend
+- **D1 Database** for secure, scalable data storage
+- Use Google Gemini API for AI-driven emotional analysis
+- Use CloundFlare **Pages** and **Workers**, **D1 Database** for hosting Frontend and Backend, Database
 
 ## Challenges We Ran Into
 
 - Designing **persuasive yet ethical dialogue mechanics**—ensuring players can succeed without manipulation
 - Implementing **adaptive AI responses** that feel **natural and emotionally intelligent**
 - Balancing gameplay to make persuasion **challenging but rewarding**
+- Front-end and back-end, database hosting using CloudFlare Pages and Workers, D1 database
 
 ## Accomplishments That We're Proud Of
 
@@ -40,3 +44,8 @@ We developed **MTLove** using:
 
 With MTLove, persuasion isn’t about winning—it’s about connecting, understanding, and leading with heart. Will you master the art of persuasion?
 
+## Links
+
+- [MTLove Demo](https://mtlove.pages.dev/)
+- [MTLove Presentation](https://docs.google.com/presentation/d/1RzAVOvtJObYog7s0MYRXJ5r6hafKN4E5QXXF9S2edu0/edit#slide=id.gcb9a0b074_1_0)
+- [Backend](https://github.com/hdcola/mtloveapi)
